@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nokiaKeyboard</string>
+    <string name="botaoABC">ABC</string>
+    <string name="botaoDEF">DEF</string>
+    <string name="botaoGHI">GHI</string>
+    <string name="botaoJKL">JKL</string>
+    <string name="botaoMNO">MNO</string>
+    <string name="botaoPQRS">PQRS</string>
+    <string name="botaoTUV">TUV</string>
+    <string name="botaoWXYZ">WXYZ</string>
+    <string name="botaoEspaco">" "</string>
+</resources>
